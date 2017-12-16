@@ -1,5 +1,17 @@
 # PUG ARG Experience.
 
+This plugin is designed to ruin all goodwill Mozilla has in the opensource community, by being pushed out to users as part of an ad campaign between Mozilla and Comcast, the creators of Mr Robot
+
+While for decades Mozilla has sought to educate users on safe browsing, this plugin makes your browser or computer appear to be infected by malware. Not only that, it is pushed out to you without your approval as part of a "Mozilla Study".
+
+In the past Mozilla used their telemetry and studie process to collect data on user - site interactions and to design a safer firefox. But now that it's being used for advertising without any kind of warning, feel free to disable it!
+
+Preferences -> Privacy & Security ( Hah! ) -> Scroll down to "FireFox Data Collection and Use". Uncheck telemetry and "Allow firefox to install and run studies".
+
+Then go to Add-Ons, and remove the Looking Glass garbage.
+
+Time to look for a well run fork that doesn't pull this nonsense.
+
 ## Getting started
 
 ```
